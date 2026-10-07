@@ -51,7 +51,7 @@ GET, HEAD
 8. Select CachingOptimized as the cache policy.
 9. For this basic experiment, do not enable additional security protections.
 10. Click Create distribution.
-
+```
 ### Step 3: Update S3 Bucket Policy
 
 1. Open the S3 bucket.
