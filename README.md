@@ -13,7 +13,7 @@ This repository contains all the experiments performed as part of the Cloud Comp
 ## Experiment List
 |  Title   |  Folder  |
 |----------|----------|
- Cloud Lab 1 | [https://github.com/Sagarnayak398/cloud-lab1.git](cloud-lab1) |
+ Cloud Lab 1 | https://github.com/Sagarnayak398/cloud-lab1.git|
  CloudSim Simulation (Day 1) | [cloudsim-day1](cloudsim-day1) |
  Salesforce Mail Service | [salesforce-DC-mail-service](salesforce-DC-mail-service) |
  Image Processing using Microsoft Azure | [Exp-Azure-Image-Processing](Exp-Azure-Image-Processing) |
