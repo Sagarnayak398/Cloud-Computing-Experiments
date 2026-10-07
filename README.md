@@ -14,12 +14,12 @@ This repository contains all the experiments performed as part of the Cloud Comp
 |  Title   |  Folder  |
 |----------|----------|
  Cloud Lab 1 | https://github.com/Sagarnayak398/cloud-lab1.git|
- CloudSim Simulation (Day 1) | [cloudsim-day1](cloudsim-day1) |
- Salesforce Mail Service | [salesforce-DC-mail-service](salesforce-DC-mail-service) |
- Image Processing using Microsoft Azure | [Exp-Azure-Image-Processing](Exp-Azure-Image-Processing) |
- Video Streaming using AWS (S3 and CloudFront) | [Exp-AWS-Video-Streaming](Exp-AWS-Video-Streaming) |
- Static Web App using AWS S3 | [Exp-Static-Web-App-S3](Exp-Static-Web-App-S3) |
- AWS EC2 Instance Creation | [Exp-AWS-EC2-Instance-Creation](Exp-AWS-EC2-Instance-Creation) |
+ CloudSim Simulation (Day 1) | https://github.com/Sagarnayak398/cloudsim-day1.git |
+ Salesforce Mail Service | https://github.com/Sagarnayak398/salesforce-DC-mail-service.git |
+ Image Processing using Microsoft Azure | https://github.com/Sagarnayak398/microsoft-azure-image-Processing.git |
+ Video Streaming using AWS (S3 and CloudFront) | https://github.com/Sagarnayak398/AWS-Video-Streaming.git |
+ Static Web App using AWS S3 | https://github.com/Sagarnayak398/Static-web-app-using-s3-AWS.git |
+ AWS EC2 Instance Creation | https://github.com/Sagarnayak398/AWS-EC2-Instance-Creation.git |
 
 ## Tools & Technologies Used
 - Amazon Web Services (S3, CloudFront, EC2)
